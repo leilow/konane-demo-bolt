@@ -2,6 +2,8 @@
 
 This project was generated with [Bolt.new](https://bolt.new) using the **Vite + React + TypeScript** template.
 
+Project Bolt ([konane-game-webapp-64al.bolt.host](https://konane-game-webapp-64al.bolt.host))
+
 ---
 
 ## 🚀 Quick Start (for teammates)
