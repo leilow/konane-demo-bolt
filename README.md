@@ -14,7 +14,7 @@ This project was generated with [Bolt.new](https://bolt.new) using the **Vite + 
    ```bash
    npm run dev
    ```
-   → open http://localhost:5173
+   → open http://localhost:4173/
 
 Build for production:  
 ```bash
